@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c84bc644.css",
+    "main.js": "/static/js/main.8e9202d9.js",
+    "static/js/498.71d2491c.chunk.js": "/static/js/498.71d2491c.chunk.js",
+    "static/js/703.f9f7df78.chunk.js": "/static/js/703.f9f7df78.chunk.js",
+    "static/js/55.4e35300d.chunk.js": "/static/js/55.4e35300d.chunk.js",
+    "static/media/bg-project-img.jpg": "/static/media/bg-project-img.5c7f7fc59153b3a6ad98.jpg",
+    "static/media/filmfestivaldetails.png": "/static/media/filmfestivaldetails.649976545d9719124872.png",
+    "static/media/CV.jpg": "/static/media/CV.363bddbc6539a9e52d06.jpg",
+    "static/media/chaletsandcavier.png": "/static/media/chaletsandcavier.0ebd2cf5a20b5ff74ae5.png",
+    "static/media/aboutImg.jpeg": "/static/media/aboutImg.d9add54670750b682451.jpeg",
+    "static/media/intobg.jpg": "/static/media/intobg.8cdb4191ae808973a29b.jpg",
+    "index.html": "/index.html",
+    "main.c84bc644.css.map": "/static/css/main.c84bc644.css.map",
+    "main.8e9202d9.js.map": "/static/js/main.8e9202d9.js.map",
+    "498.71d2491c.chunk.js.map": "/static/js/498.71d2491c.chunk.js.map",
+    "703.f9f7df78.chunk.js.map": "/static/js/703.f9f7df78.chunk.js.map",
+    "55.4e35300d.chunk.js.map": "/static/js/55.4e35300d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c84bc644.css",
+    "static/js/main.8e9202d9.js"
+  ]
+}
