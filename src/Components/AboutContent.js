@@ -7,8 +7,8 @@ import jsPDF from "jspdf";
 import CV from "../assets/CV.jpg"
 class AboutContent extends Component {
   pdfGenerate = () => {
-    var doc = new jsPDF("landscape", "px", "a4", "false");
-    doc.addImage(CV, "jpg", 65, 20, 450, 450);
+    var doc = new jsPDF("portrait", "px", "a4", "false");
+    doc.addImage(CV, "jpg", -5, 0, 450, 500);
     doc.save("CV.pdf");
   }
   render()
