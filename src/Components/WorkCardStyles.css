@@ -55,7 +55,16 @@
     margin-top: 2rem;
     gap: 20px;
 }
+/* for small screen size upto 400px */ 
+@media screen and (max-width: 400px) {
+    .pro-btn {
+    flex-direction:column;
+    gap: 40px;
+}
+}
 
+
+/* for screen size upto 740px */ 
 @media screen and (max-width: 740px) {
     .project-container {
         max-width: 90%;
