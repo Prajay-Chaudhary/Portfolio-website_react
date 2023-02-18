@@ -40,7 +40,7 @@ const Form = () => {
           name="user_message"
           required
         />
-        <button className="btn" type="submit" value="Send">
+        <button className="btn custom-btn" type="submit" value="Send">
           Submit
         </button>
       </form>

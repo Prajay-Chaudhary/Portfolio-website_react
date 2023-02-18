@@ -47,12 +47,12 @@ class AboutContent extends Component {
                   <a href="#">
                     <button
                       onClick={this.pdfGenerate}
-                      className="btn btn_modification"
+                      className="btn btn_modification custom-btn"
                     >
                       Download CV
                     </button>
                   </a>
-                  <Link to={"/Contact"} className="btn btn_modification">
+                  <Link to={"/Contact"} className="btn btn_modification custom-btn">
                     Contact
                   </Link>
                 </div>

@@ -11,17 +11,18 @@ const Heroimg = () => {
       <div className="content">
         <p>HI, I AM A </p>
         <h1>FULL-STACK DEVELOPER</h1>
-      
-      <div>
-          <Link to={"/Project"} className="btn">Projects</Link>
- <Link to={"/Contact"} className="btn btn-light">Contact</Link>
+
+        <div>
+          <Link to={"/Project"} className="btn custom-btn">
+            Projects
+          </Link>
+          <Link to={"/Contact"} className="btn custom-btn">
+            Contact
+          </Link>
+        </div>
       </div>
     </div>
-    </div>
-   
-
-    
   );
-}
+};
 
 export default Heroimg;

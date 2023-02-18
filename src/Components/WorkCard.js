@@ -12,7 +12,7 @@ const WorkCard = (props) => {
           <div>
             <a
               href={props.link}
-              className="btn"
+              className="btn custom-btn"
               target={"_blank"}
             >
               Source Code
@@ -21,7 +21,7 @@ const WorkCard = (props) => {
           <div>
               <a
                href={props.liveLink}
-               className="btn"
+               className="btn custom-btn"
                target={"_blank"}
             >
               See Live
