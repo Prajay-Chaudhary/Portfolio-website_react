@@ -2,9 +2,17 @@ import alphaBlog from "../assets/alphaBlog.png";
 import filmfestivaldetails from "../assets/filmfestivaldetails.png";
 import BikeRace from "../assets/BikeRace.jpg";
 import trackYourFitness from "../assets/trackYourFitness.png";
+import AidPlatform from "../assets/AidPlatform.png";
 
 //projects data
 const ProjectCardData = [
+  {
+    imgsrc: AidPlatform,
+    title: "AidPlatform",
+    text: "The application allows users to post requests for help within their neighborhood. These requests could include things like needing groceries delivered, needing help with household chores, or needing assistance with transportation.",
+    link: "https://github.com/Prajay-Chaudhary/aid-backend-api",
+    liveLink: "https://aid-platform-frontend.vercel.app/"
+  },
   {
     imgsrc: BikeRace,
     title: "BikeRace",

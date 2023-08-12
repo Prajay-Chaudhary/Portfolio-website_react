@@ -8,7 +8,7 @@ import {
   FaLinkedin,
   FaMailBulk,
   FaPhone,
-  
+
 } from "react-icons/fa";
 
 const Footer = () => {
@@ -47,9 +47,9 @@ const Footer = () => {
         <div className="right">
           <h4>About Me</h4>
           <p>
-            I am a developer, Currently studying the Full-stack Developement
-            path on OpenClassrooms which is Europe’s largest online education
-            platform.
+            I am a full-stack developer with skills in Ruby on Rails and React JS.
+            Having a passion for building beautiful, intuitive, and functional websites and
+            applications.
           </p>
           <div className="social-icons">
             <a href="https://www.facebook.com/prajay.arya">
