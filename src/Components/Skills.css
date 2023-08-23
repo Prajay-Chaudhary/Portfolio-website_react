@@ -1,0 +1,44 @@
+.skills-wrapper {
+    opacity: 0;
+    transform: translateX(-20px);
+    transition: 1s opacity ease-in-out, 1s transform ease-in-out;
+    max-width: 700px;
+    margin: 0 auto; /* Center the skills section horizontally */
+}
+
+.skills-wrapper.visible {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.skills {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skill-bar-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px; /* Increased margin for more space between bars */
+    position: relative; /* Added position */
+}
+
+.skill-bar {
+    height: 20px; /* Increased bar height */
+    background-color: #00ff00;
+    width: 100%; /* Bar width set to 100% */
+}
+
+.skill-percentage {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(10px, -50%); /* Adjust the translate values */
+    color: #000000;
+    font-weight: bold; /* Added font-weight for visibility */
+}
+
+.skill-name {
+    margin-left: 10px;
+    color: #ffffff;
+}

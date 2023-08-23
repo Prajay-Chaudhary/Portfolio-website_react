@@ -1,0 +1,17 @@
+{
+  "skills": [
+    { "id": 0, "skillName": "AWS S3", "amount": "72" },
+    { "id": 1, "skillName": "Web Development", "amount": "85" },
+    { "id": 2, "skillName": "UI/UX", "amount": "70" },
+    { "id": 3, "skillName": "Javascript", "amount": "85" },
+    { "id": 4, "skillName": "Photoshop", "amount": "77" },
+    { "id": 5, "skillName": "Front-end", "amount": "70" },
+    { "id": 6, "skillName": "Back-end", "amount": "80" },
+    { "id": 7, "skillName": "Ruby", "amount": "75" },
+    { "id": 8, "skillName": "Ruby on Rails", "amount": "80" },
+    { "id": 9, "skillName": "Python", "amount": "45" },
+    { "id": 10, "skillName": "Java", "amount": "35" },
+    { "id": 11, "skillName": "C/C++", "amount": "40" },
+    { "id": 12, "skillName": "JQuery", "amount": "50" }
+  ]
+}
