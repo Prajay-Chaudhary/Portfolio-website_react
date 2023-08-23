@@ -1,9 +1,6 @@
 .row {
     max-width: 1140px;
     margin: auto;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 40px;
     padding: 2rem;
 }
 
@@ -29,7 +26,6 @@ h1.about__heading {
 .about_text {
     font-size: 1.2rem;
     padding: 1rem 1rem;
-    text-align: justify;
 }
 
 .about_btn {
@@ -50,12 +46,14 @@ h1.about__heading {
         max-width: 400px;
         grid-template-columns: 1fr;
     }
+
     .col__2 img {
         text-align: center;
         border-radius: 10px;
         width: 300px;
         height: 350px;
     }
+
     .about_meta p {
         font-size: 1rem;
         padding: 0.5rem 1rem;
@@ -66,6 +64,7 @@ h1.about__heading {
     .row {
         grid-template-columns: 1fr;
     }
+
     .col__2 img {
         text-align: center;
         border-radius: 10px;
@@ -74,6 +73,7 @@ h1.about__heading {
         max-width: 350px;
         max-height: 450px;
     }
+
     .about_text {
         font-size: 1rem;
         padding: 1rem 1rem;
@@ -84,17 +84,21 @@ h1.about__heading {
     .row {
         grid-template-columns: 1fr;
     }
+
     .about_text {
         font-size: 1rem;
         padding: 1rem 1rem;
     }
+
     h1.about__heading {
         font-weight: 400;
         font-size: 45px;
     }
+
     .btn_modification {
         margin: 1.2rem;
     }
+
     .col__2 img {
         text-align: center;
         border-radius: 10px;
