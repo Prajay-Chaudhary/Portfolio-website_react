@@ -47,9 +47,7 @@ const Footer = () => {
         <div className="right">
           <h4>About Me</h4>
           <p>
-            I am a full-stack developer with skills in Ruby on Rails and React JS.
-            Having a passion for building beautiful, intuitive, and functional websites and
-            applications.
+            I am currently pursuing a Master's degree at Sup De Vinci College, with a strong aspiration to engage in a work-study program as a Full Stack Developer. My preferred schedule involves alternating between 1 week of intensive learning and 3 weeks of practical application within a business setting. I am committed to making myself available whenever possible, striving to make valuable contributions while ensuring continuous learning and growth.
           </p>
           <div className="social-icons">
             <a href="https://www.facebook.com/prajay.arya">
