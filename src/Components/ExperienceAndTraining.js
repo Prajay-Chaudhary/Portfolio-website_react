@@ -78,7 +78,7 @@ class ExperienceAndTraining extends Component {
             <h3 className="vertical-timeline-element-title">
               Perfect Active Solutions Pvt. Ltd, Kathmandu, Nepal
             </h3>
-            <h5 style={{ color: "black" }}>Perfect Active Solutions Pvt. Ltd. is an IT Solutions Provider (Hardware/ Network and a Software Development).</h5>
+            <h5 style={{ color: "black" }}>Web Developer</h5>
             <p style={{ color: "black" }}>- Designed and implemented user interfaces and API for MIS systems using React JS.</p>
             <p style={{ color: "black" }}>- Used web language HTML, JavaScript, CSS in order to build web applications SQL to store web application data.</p>
             <p style={{ color: "black" }}>- Revised, update, refactored and debugged code and further improved existing Software.</p>
