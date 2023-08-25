@@ -1,8 +1,8 @@
-import alphaBlog from "../assets/alphaBlog.png";
-import filmfestivaldetails from "../assets/filmfestivaldetails.png";
-import BikeRace from "../assets/BikeRace.jpg";
-import trackYourFitness from "../assets/trackYourFitness.png";
-import AidPlatform from "../assets/AidPlatform.png";
+import alphaBlog from "../../assets/alphaBlog.png";
+import filmfestivaldetails from "../../assets/filmfestivaldetails.png";
+import BikeRace from "../../assets/BikeRace.jpg";
+import trackYourFitness from "../../assets/trackYourFitness.png";
+import AidPlatform from "../../assets/AidPlatform.png";
 
 //projects data
 const ProjectCardData = [

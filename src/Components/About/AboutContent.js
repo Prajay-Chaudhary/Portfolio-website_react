@@ -1,10 +1,10 @@
 import React from "react";
-import "./AboutContentStyles.css";
-import aboutImg from "../assets/aboutImg.jpeg";
+import "./AboutContentStyles.css"
+import aboutImg from "../../assets/aboutImg.jpeg";
 import { Link } from "react-router-dom";
 import { Component } from "react";
 import jsPDF from "jspdf";
-import CV from "../assets/CV.jpg"
+import CV from "../../assets/CV.jpg"
 class AboutContent extends Component {
   pdfGenerate = () => {
     var doc = new jsPDF("portrait", "px", "a4", "false");

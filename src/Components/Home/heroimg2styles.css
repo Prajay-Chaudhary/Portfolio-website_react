@@ -7,7 +7,7 @@
 
 .hero-img::before {
     content: "";
-    background-image: url("../assets/bg-project-img.jpg");
+    background-image: url("../../assets/bg-project-img.jpg");
     background-size: cover;
     background-position: center top;
     height: 100%;

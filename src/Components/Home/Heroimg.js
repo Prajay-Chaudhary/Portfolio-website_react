@@ -1,6 +1,6 @@
 import "./HeroImgStyles.css";
 import React from "react";
-import intobg from "../assets/intobg.jpg";
+import intobg from "../../assets/intobg.jpg";
 import { Link } from "react-router-dom";
 const Heroimg = () => {
   return (

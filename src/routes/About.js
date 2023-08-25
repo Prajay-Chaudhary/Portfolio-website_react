@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from "../Components/Navbar";
-import Footer from "../Components/Footer";
-import HeroImg2 from '../Components/HeroImg2';
-import AboutContent from "../Components/AboutContent";
-import ExperienceAndTraining from '../Components/ExperienceAndTraining';
-import Skills from '../Components/Skills';
+import Navbar from '../Components/NavBar/Navbar';
+import Footer from '../Components/Footer/Footer';
+import HeroImg2 from '../Components/Home/HeroImg2'
+import AboutContent from '../Components/About/AboutContent';
+import ExperienceAndTraining from '../Components/About/ExperienceAndTraining';
+import Skills from '../Components/About/Skills'
 const About = () => {
   return (
     <div>
