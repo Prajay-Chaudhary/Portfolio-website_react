@@ -70,7 +70,7 @@ class ExperienceAndTraining extends Component {
 
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2019 - 2020"
+            date="2019 - 2022"
             dateClassName="custom-date-color"
             iconStyle={{ background: "#e9d35b", color: "#fff" }}
             icon={<WorkSharpIcon />}
@@ -78,11 +78,22 @@ class ExperienceAndTraining extends Component {
             <h3 className="vertical-timeline-element-title">
               Perfect Active Solutions Pvt. Ltd, Kathmandu, Nepal
             </h3>
-            <h5 style={{ color: "black" }}>Web Developer</h5>
-            <p style={{ color: "black" }}>- Designed and implemented user interfaces and API for MIS systems using React JS.</p>
-            <p style={{ color: "black" }}>- Used web language HTML, JavaScript, CSS in order to build web applications SQL to store web application data.</p>
-            <p style={{ color: "black" }}>- Revised, update, refactored and debugged code and further improved existing Software.</p>
-            <p style={{ color: "black" }}>- Tested and deployed applications and systems.</p>
+            <h5 style={{ color: "black" }}>Full Stack Web Developer</h5>
+            <p style={{ color: "black" }}>- Create robust, well-documented APIs</p>
+            <p style={{ color: "black" }}>- Data Management</p>
+            <p style={{ color: "black" }}>- Using Modern Front-End Tools React Js and tailwind CSS to Create Attractive Web Applications.</p>
+            <p style={{ color: "black" }}>- Implement security best practices to protect user data and prevent vulnerabilities.</p>
+            <p style={{ color: "black" }}>- Optimization, review and debugging of code</p>
+            <p style={{ color: "black" }}>- UX/UI collaboration for responsive interfaces.</p>
+            <p style={{ color: "black" }}>- Web applications tested and deployed to ensure functionality and reliability.</p>
+            <p style={{ color: "black" }}>- Performance optimization.</p>
+            <p style={{ color: "black" }}>- Background jobs handled asynchronously.</p>
+            <p style={{ color: "black" }}>- Development of clean and modular code.</p>
+            <p style={{ color: "black" }}>- Participation in agile development.</p>
+            <p style={{ color: "black" }}>-Version control for collaborative development (Git).</p>
+            <p style={{ color: "black" }}>-User integration and training.</p>
+            <p style={{ color: "black" }}>-Analysis of customer needs and search for solutions.</p>
+            <p style={{ color: "black" }}>-Integration of third-party APIs.</p>
 
 
 

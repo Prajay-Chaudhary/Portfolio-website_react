@@ -29,7 +29,7 @@ class AboutContent extends Component {
                   I am committed to making myself available whenever possible, striving to make valuable contributions while ensuring continuous learning and growth.
                 </p>
                 <p className="about_text ">
-                  I identify myself as a proficient full-stack developer, specializing in Ruby on Rails, React JS, and Python.
+                  I identify myself as a proficient full-stack developer, specializing in Java, Python, Node js, Ruby on Rails and React JS .
                   My expertise lies in crafting elegant, user-centric websites and applications that seamlessly blend form and function. With a fervent enthusiasm for creating dynamic, feature-rich web solutions,
                   I am dedicated to delivering a cohesive and enjoyable user experience.
                 </p>
