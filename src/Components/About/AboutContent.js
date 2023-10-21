@@ -8,8 +8,8 @@ import CV from "../../assets/CV.jpg"
 class AboutContent extends Component {
   pdfGenerate = () => {
     var doc = new jsPDF("portrait", "px", "a4", "false");
-    doc.addImage(CVV, "jpg", 0, 0, 450, 500);
-    doc.save("CV.pdf");
+    doc.addImage(CV, "jpg", 0, 0, 450, 500);
+    //doc.save("CV.pdf");
   }
   render() {
     return (
