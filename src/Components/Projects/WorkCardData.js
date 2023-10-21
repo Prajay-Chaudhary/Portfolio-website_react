@@ -3,26 +3,34 @@ import filmfestivaldetails from "../../assets/filmfestivaldetails.png";
 import BikeRace from "../../assets/BikeRace.jpg";
 import trackYourFitness from "../../assets/trackYourFitness.png";
 import AidPlatform from "../../assets/AidPlatform.png";
+import RoomOccupancy from "../../assets/RoomOccupancy.png";
 
 //projects data
 const ProjectCardData = [
   {
+    imgsrc: RoomOccupancy,
+    title: "Room Occupancy status App",
+    text: "This application allows you to view the building and floor occupancy rates as well as the occupancy status of their rooms.",
+    link: "https://github.com/Prajay-Chaudhary/spinalCom-exercise",
+    liveLink: "https://spinal-com-exercise.vercel.app/"
+  },
+  {
     imgsrc: AidPlatform,
-    title: "AidPlatform",
+    title: "Aid Platform",
     text: "The application allows users to post requests for help within their neighborhood. These requests could include things like needing groceries delivered, needing help with household chores, or needing assistance with transportation.",
     link: "https://github.com/Prajay-Chaudhary/aid-backend-api",
     liveLink: "https://aid-platform-frontend.vercel.app/"
   },
   {
     imgsrc: BikeRace,
-    title: "BikeRace",
+    title: "Bike Race",
     text: "A list of bikers displayed on a map using Leaflet JS and a contest page to win a prize, our application using Ruby on Rails API and Vite React front end brings the biking community together.",
     link: "https://github.com/Prajay-Chaudhary/Move-and-Groove",
     liveLink: "https://bike-race.vercel.app/"
   },
   {
     imgsrc: trackYourFitness,
-    title: "track your fitness",
+    title: "Track your fitness",
     text: "Created a fitness tracking site called Move and Groove in ruby on rails where users can track their daily fitness activities by logging into their account.",
     link: "https://github.com/Prajay-Chaudhary/Move-and-Groove",
     liveLink: "https://move-and-groove1.herokuapp.com/"

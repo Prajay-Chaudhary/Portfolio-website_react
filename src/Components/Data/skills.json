@@ -1,19 +1,20 @@
 {
   "skills": [
-    { "id": 0, "skillName": "AWS", "amount": "72" },
-    { "id": 1, "skillName": "Web Development", "amount": "85" },
+    { "id": 0, "skillName": "AWS", "amount": "35" },
+    { "id": 1, "skillName": "Web Development", "amount": "70" },
     { "id": 2, "skillName": "UI/UX", "amount": "70" },
-    { "id": 3, "skillName": "API Development", "amount": "85" },
-    { "id": 4, "skillName": "Photoshop", "amount": "77" },
+    { "id": 3, "skillName": "REST API Development", "amount": "75" },
+    { "id": 4, "skillName": "Photoshop", "amount": "65" },
     { "id": 5, "skillName": "Front-end", "amount": "70" },
-    { "id": 6, "skillName": "Back-end", "amount": "80" },
-    { "id": 7, "skillName": "Ruby", "amount": "75" },
-    { "id": 8, "skillName": "Ruby on Rails", "amount": "80" },
-    { "id": 9, "skillName": "Python", "amount": "75" },
-    { "id": 10, "skillName": "Java", "amount": "70" },
-    { "id": 11, "skillName": "C/C++", "amount": "40" },
-    { "id": 12, "skillName": "Node Js", "amount": "70" },
+    { "id": 6, "skillName": "Back-end", "amount": "65" },
+    { "id": 7, "skillName": "Ruby", "amount": "60" },
+    { "id": 8, "skillName": "Ruby on Rails", "amount": "65" },
+    { "id": 9, "skillName": "Python", "amount": "25" },
+    { "id": 10, "skillName": "Java", "amount": "40" },
+    { "id": 11, "skillName": "C/C++", "amount": "20" },
+    { "id": 12, "skillName": "Node Js", "amount": "25" },
     { "id": 13, "skillName": "JQuery", "amount": "50" },
-    { "id": 14, "skillName": "Javascript", "amount": "85" }
+    { "id": 14, "skillName": "Javascript", "amount": "75" },
+    { "id": 15, "skillName": "Docker", "amount": "30" }
   ]
 }

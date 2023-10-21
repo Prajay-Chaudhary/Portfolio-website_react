@@ -54,23 +54,10 @@ class ExperienceAndTraining extends Component {
             <h5 style={{ color: "black" }}> Computer science and engineering</h5>
             <p style={{ color: "black" }}> Grade: A+</p>
           </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="2022 - 2023"
-            dateClassName="custom-date-color"
-            iconStyle={{ background: "#e9d35b", color: "#fff" }}
-            icon={<WorkSharpIcon />}
-          >
-            <h3 className="vertical-timeline-element-title">
-              Starsbucks
-            </h3>
-            <h5 style={{ color: "black" }}> Barista</h5>
-            <p style={{ color: "black" }}>- Prepared and serves a variety of coffee and related beverages while providing excellent customer service in a fast-paced environment.</p>
-          </VerticalTimelineElement>
 
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2019 - 2022"
+            date="2020 - 2021"
             dateClassName="custom-date-color"
             iconStyle={{ background: "#e9d35b", color: "#fff" }}
             icon={<WorkSharpIcon />}

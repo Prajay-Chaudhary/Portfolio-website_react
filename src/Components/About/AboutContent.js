@@ -8,7 +8,7 @@ import CV from "../../assets/CV.jpg"
 class AboutContent extends Component {
   pdfGenerate = () => {
     var doc = new jsPDF("portrait", "px", "a4", "false");
-    doc.addImage(CV, "jpg", 0, 0, 450, 500);
+    doc.addImage(CVV, "jpg", 0, 0, 450, 500);
     doc.save("CV.pdf");
   }
   render() {
@@ -29,7 +29,7 @@ class AboutContent extends Component {
                   I am committed to making myself available whenever possible, striving to make valuable contributions while ensuring continuous learning and growth.
                 </p>
                 <p className="about_text ">
-                  I identify myself as a proficient full-stack developer, specializing in Java, Python, Node js, Ruby on Rails and React JS .
+                  I identify myself as a proficient full-stack developer, specializing in Java, Ruby/Ruby on Rails and React JS.
                   My expertise lies in crafting elegant, user-centric websites and applications that seamlessly blend form and function. With a fervent enthusiasm for creating dynamic, feature-rich web solutions,
                   I am dedicated to delivering a cohesive and enjoyable user experience.
                 </p>
